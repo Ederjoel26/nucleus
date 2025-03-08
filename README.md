@@ -1,2 +1,2 @@
-# nucleus
-![Nucleus](https://github.com/user-attachments/assets/ffd2c1c4-4fe7-4e0c-83f2-fab2616ad526)
+
+![Nucleus](https://github.com/user-attachments/assets/e0c84adf-d724-4505-a3b8-52b7d21b399f)
